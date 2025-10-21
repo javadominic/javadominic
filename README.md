@@ -95,4 +95,3 @@ I'm a second-year college student and a passionate cybersecurity enthusiast from
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/javadominic/javadominic/output/snake.svg" alt="Snake animation" />
