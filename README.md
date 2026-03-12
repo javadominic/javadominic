@@ -1,18 +1,5 @@
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=D94234&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Saeed+Ansari;Cybersecurity+%7C+Web+Developer;Open+Source+Contributor" />
 
-<h1>
-  <a href="https://github.com/javadominic">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D94234&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Saeed+Ansari;Cybersecurity+%7C+Web+Development+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javadominic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-</div>
-
----
 
 # 👨‍💻 About Me
 
