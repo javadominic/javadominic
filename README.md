@@ -1,5 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=D94234&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Saeed+Ansari;Cybersecurity+%7C+Web+Developer;Open+Source+Contributor" />
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=javadominic&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 # 👨‍💻 About Me
 
