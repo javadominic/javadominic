@@ -6,7 +6,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **second-year B.Tech student from India** passionate about **Cybersecurity, Open Source, and Web Development**.  
+I'm a **Third-year B.Tech student from India** passionate about **Cybersecurity, Open Source, and Web Development**.  
 I enjoy building real-world projects, exploring system security, and continuously improving my development skills.
 
 - 🔭 Currently working on **open-source projects and improving my GitHub repositories**
