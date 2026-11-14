@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=D94234&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Saeed+Ansari;Cybersecurity+%7C+Web+Developer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D94234&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B,+I'm+Saeed+Ansari;Cybersecurity+%26+Digital+Forensics;Data+Recovery+%7C+Network+Security+(CCNA);Founder+@+ARVIQ+Digital+Solution" />
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=javadominic&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -6,120 +6,105 @@
 
 # 👨‍💻 About Me
 
-I'm a **Third-year B.Tech student from India** passionate about **Cybersecurity, Open Source, and Web Development**.  
-I enjoy building real-world projects, exploring system security, and continuously improving my development skills.
+B.Tech Cybersecurity student in India. I build security tools in Python, recover data from failed drives and phones, and run **[ARVIQ Digital Solution](https://arviqdigitalsolution.live)**, an agency helping Indian SMBs get found in Google and AI search.
 
-- 🔭 Currently working on **open-source projects and improving my GitHub repositories**
-- 🌱 Learning **Cybersecurity, Ethical Hacking, and Advanced Web Development**
-- 🛠 Recently managed **GitHub issues, builds, and releases for projects**
-- 👯 Looking to collaborate on **open-source or cybersecurity projects**
-- 📫 Reach me at **saeedansari96486@gmail.com**
-- ⚡ Fun fact: **I enjoy debugging systems and automating tasks**
+- 🔐 Focus: **digital forensics, data recovery, network defense**
+- 🛠 Hands-on with **ACE Lab PC-3000, SpiderBoard, R-Studio, DMDE**
+- 🔭 Building: **Network IDPS** and the **ARVIQ Pentesting Browser**
+- 👯 Open to **cybersecurity / digital forensics internships** and security tooling collaborations
 
 ---
 
 # 🚀 Projects
 
+### 🛡️ ARVIQ Pentesting Browser
+Cross-platform security suite with **80+ XSS/SQLi/SSRF payloads**, live traffic interception and SIEM monitoring. A free alternative to commercial tools.
+
+🔗 Contact ME For the Files(exe,dmg)
+
+---
+
+### 📡 Network IDPS
+**Snort/Suricata** network monitoring with a host web-log agent and a **Flask dashboard**.
+
+🔗 https://github.com/javadominic/new-idps
+
+---
+
 ### 🔍 URL & Email Phishing Checker
-Cybersecurity tool that detects suspicious **URLs and phishing emails** using pattern analysis.
+Flags suspicious **URLs and phishing emails** using pattern analysis and VirusTotal lookups. Built during **BuildathonXL**.
 
-Built during **BuildathonXL**.
-
-🌐 Live Demo  
-https://buildathonxlorn.vercel.app
+🌐 [Live demo](https://buildathonxlorn.vercel.app) · 
 
 ---
 
-### 🌿 New Green Leaf Automation Website
-Developed a **client business website** with responsive design and modern UI.
+### 🧠 Contextos
+Chrome extension that gives the browser **AI-powered memory** (hackathon 2026).
 
-🌐 Live Website  
-https://www.newgreenleafautomation.com
 
 ---
 
-### 🕷️ SEO Scraper Tool
-A web scraping tool designed to extract **SEO-related data from websites** to help analyze optimization metrics.
+### 🕷️ SEO Scraper & Keyword Planner
+Extracts **SEO data from websites** to analyze optimization metrics. Python.
+
+🔗 [Repo](https://github.com/javadominic/SEO-Scraper-Keyword-Planner)
 
 ---
 
-### 🌐 Personal Portfolio
-My developer portfolio showcasing projects, cybersecurity interests, and technical work.
+### 🌿 New Green Leaf Automation
+Responsive **client business website**.
 
-🌐 Portfolio  
-https://saeedansaricybportfolio.vercel.app
+🌐 [Live website](https://www.newgreenleafautomation.com)
 
 ---
----
+
+# 💾 Data Recovery & Forensics
+
+Failed-drive recovery with **ACE Lab PC-3000** and **SpiderBoard**, plus R-Studio, DMDE and PhotoRec/TestDisk. Forensics tooling: Autopsy, FTK Imager, Volatility.
+
+
 ---
 
 # 🛠️ Skills & Tools
 
-### 💻 Programming & Scripting
+### 💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,javascript" />
+<img src="https://skillicons.dev/icons?i=python,flask,bash,ts,nodejs" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,electron,html,css" />
 </p>
 
-### 🔐 Cybersecurity
+### 🔐 Security
 <p>
 <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-Tools: Kali Linux • Nmap • Wireshark • Burp Suite • Metasploit
+Kali Linux • Nmap • Wireshark • Burp Suite • Metasploit • Snort • Suricata
 
-### ⚙️ Developer Tools
+### ⚙️ Dev Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadominic&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=javadominic&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=javadominic&theme=tokyo-night&hide_border=true"/>
-
----
----
-
 # 🤝 Let's Connect
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/saeed-ansari-cyber/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://saeedcyb.arviqdigitalsolution.live">
+<img src="https://img.shields.io/badge/Portfolio-D94234?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="https://discordapp.com/users/dominic_09">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:saeedansari96486@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saeed-ansari-🇮🇳-254244168">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/javadominic/javadominic/blob/output/github-contribution-grid-snake.svg)
